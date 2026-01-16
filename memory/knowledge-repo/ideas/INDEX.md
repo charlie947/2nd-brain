@@ -15,7 +15,7 @@ ideas/YYYY-MM-DD-idea-name.md
 ## Ideas by Status
 
 ### Raw
-*No ideas yet*
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
 
 ### Developing
 *No ideas yet*
@@ -31,7 +31,7 @@ ideas/YYYY-MM-DD-idea-name.md
 ## Ideas by Application
 
 ### Content
-*No ideas yet*
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
 
 ### Book
 *No ideas yet*
@@ -40,7 +40,13 @@ ideas/YYYY-MM-DD-idea-name.md
 *No ideas yet*
 
 ### Client
-*No ideas yet*
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
 
 ### Product
-*No ideas yet*
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
+
+### Presentation
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
+
+### Framework
+- **[How to Win on LinkedIn Using AI](./2026-01-16-win-linkedin-with-ai.md)** - Framework for leveraging AI tools to build authority and grow on LinkedIn
