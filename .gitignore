@@ -1,0 +1,61 @@
+# AI Second Brain .gitignore
+
+# ==============================
+# Secrets & Credentials
+# ==============================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+credentials/
+
+# ==============================
+# Personal Data (Optional)
+# ==============================
+# Uncomment these if you want to keep experiences private:
+# experiences/
+# brain-health/
+
+# ==============================
+# Claude Code Generated
+# ==============================
+.agents-context/
+*.tmp
+*.bak
+
+# ==============================
+# OS Generated
+# ==============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==============================
+# IDE / Editor
+# ==============================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==============================
+# Dependencies (if using any)
+# ==============================
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ==============================
+# Logs
+# ==============================
+*.log
+logs/
