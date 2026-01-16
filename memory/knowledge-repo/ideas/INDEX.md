@@ -15,7 +15,7 @@ ideas/YYYY-MM-DD-idea-name.md
 ## Ideas by Status
 
 ### Raw
-*No ideas yet*
+- **[Content Ideas Batch - January 2026](./2026-01-16-content-ideas-batch.md)** - 52 content ideas organized by category (AI tools, LinkedIn, resources, tutorials)
 
 ### Developing
 *No ideas yet*
@@ -31,7 +31,7 @@ ideas/YYYY-MM-DD-idea-name.md
 ## Ideas by Application
 
 ### Content
-*No ideas yet*
+- **[Content Ideas Batch - January 2026](./2026-01-16-content-ideas-batch.md)** - 52 content ideas for AI education, LinkedIn, tutorials
 
 ### Book
 *No ideas yet*
@@ -43,4 +43,4 @@ ideas/YYYY-MM-DD-idea-name.md
 *No ideas yet*
 
 ### Product
-*No ideas yet*
+- **[Content Ideas Batch - January 2026](./2026-01-16-content-ideas-batch.md)** - Ideas for courses, tools, resources products
